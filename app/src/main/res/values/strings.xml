@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BankManager</string>
+    <string name="title_user_menu">Menu</string>
+    <string name="title_budget">Budget</string>
+    <string name="title_categorie">Catégorie</string>
+    <string name="title_account">Compte</string>
+</resources>
